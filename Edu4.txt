@@ -1,3 +1,4 @@
 First Branch modified first branch
 PassBranch1
 First Change
+echo this is a second message
